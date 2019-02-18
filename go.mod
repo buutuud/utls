@@ -1,4 +1,4 @@
-module gitlab.com/yawning/utls.git
+module github.com/buutuud/utls
 
 require (
 	github.com/dsnet/compress v0.0.0-20171208185109-cc9eb1d7ad76
